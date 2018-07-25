@@ -1,5 +1,5 @@
 `timescale 10ns / 1ps
-`include "FA.v"
+//`include "FA.v"
 module RCA(s, cout, x, y, c0);
 input  [3:0] x, y;
 output [3:0] s;

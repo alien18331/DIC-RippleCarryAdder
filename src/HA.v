@@ -6,7 +6,7 @@ output s, c;
 /*
 	Write Your Design Here ~
 */
-xor #4.2 xor0(s, x, y);
-and #3.55 and0(c, x, y);
+xor xor0(s, x, y);
+and and0(c, x, y);
   
 endmodule
